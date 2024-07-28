@@ -8,6 +8,6 @@ This is machine learning project build using python which integrated with attrac
 
 # How to run project
 1. Import dataset in the project folder
-2. Run the Training Fraud detection.ipynb
-3. Run app.ipynb
+2. Run the Training Fraud detection.ipynb and the pickle file is created at the end with some manual predictions
+3. Run app.ipynb 
 4. Enter details required in html page
